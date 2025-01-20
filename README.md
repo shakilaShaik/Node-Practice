@@ -23,4 +23,9 @@ modules
 1. os
 2. path
 3. FS
-4. HTTP 
+4. HTTP -
+web -how web works
+web browsers --internet -- web server
+it tranfer and transform the data into meaningful as the client to seerver, server to client
+--by using this we can create servers 
+--to handle request and response

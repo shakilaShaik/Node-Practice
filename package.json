@@ -1,0 +1,15 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "wt is node js\r open source cross pplatform js run time environment that allows js to outside of a browser\r it buit on v8 js engine, which is used by google chrome, and provide a run time environment for network applications.\r client side ---------------- server side\r shows the output on the browser | viceversa",
+  "main": "htttpmodule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
